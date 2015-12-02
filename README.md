@@ -1,2 +1,4 @@
 # Scala Specs
 
+- liu.meihong
+
